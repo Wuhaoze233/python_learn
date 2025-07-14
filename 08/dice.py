@@ -1,7 +1,7 @@
 '''
 掷色子6000次，统计每个点数出现的次数。
 
-Author: Haoze wu
+Author: Haoze Wu
 Version: 1.0
 '''
 
