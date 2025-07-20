@@ -44,5 +44,3 @@ def describe(data):
     print(f'方差: {var(data)}')
     print(f'标准差: {std(data)}')
     print(f'变异系数: {cv(data)}')
-
-def
